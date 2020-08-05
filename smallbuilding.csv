@@ -1,0 +1,11 @@
+Census year,Block ID,Property ID,Base property ID,Building name,Street address,CLUE small area,Construction year,Refurbished year,Number of floors (above ground),Predominant space use,Accessibility type,Accessibility type description,Accessibility rating,Bicycle spaces,Has showers,x coordinate,y coordinate,Location
+2002,337,111382,111382,,99-101 Munster Terrace,North Melbourne,1990.0,2000.0,1,Wholesale,,,,,,144.9426,-37.8011,(-37.80106468 144.9425944)
+2002,562,110840,110840,,5 Halford Lane,Kensington,,,2,House/Townhouse,,,,,,144.9209,-37.7915,(-37.79151557 144.9208696)
+2002,236,106827,106827,,12 Murchison Street,Carlton,,,1,House/Townhouse,,,,,,144.974,-37.7998,(-37.799826 144.9740267)
+2002,229,101462,101462,,188 Canning Street,Carlton,,,2,House/Townhouse,,,,,,144.9739,-37.7941,(-37.79405814 144.9738662)
+2002,114,104097,104097,,108 Franklin Street,Melbourne (CBD),1901.0,,2,House/Townhouse,,,,,,144.9593,-37.8082,(-37.80822013 144.9592588)
+2002,238,107128,107128,,41 Owen Street,Carlton,,,1,House/Townhouse,,,,,,144.973,-37.8007,(-37.80070112 144.973012)
+2002,234,103054,103054,,25 Elgin Street,Carlton,,,2,House/Townhouse,,,,,,144.9737,-37.7981,(-37.79807095 144.9737477)
+2002,246,101690,101690,,176 Cardigan Street,Carlton,,,2,House/Townhouse,,,,,,144.9657,-37.801,(-37.80102346 144.9656728)
+2002,208,101644,101644,,366 Cardigan Street,Carlton,,,1,House/Townhouse,,,,,,144.9665,-37.7961,(-37.79610914 144.9665103)
+2002,256,105652,105652,,15-21 Lincoln Square South,Carlton,1920.0,,2,Storage,,,,,,144.9628,-37.8034,(-37.80336688 144.9628218)
